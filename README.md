@@ -13,6 +13,8 @@ This widget is a life saver, and is packed with following Feautures:
 * Either Quantity or Ticks
 * <b>Quantity</b> - Enter the Quantity & the Calc. will tell you approx. target move per share
 * <b>Ticks</b> - Provide the move, & calc. will tell you the quantity required to achieve profit
+<img src= "tested.png" height = "75%", width = "75%">
+
 
 # UPDATES
 * update the Margins
@@ -21,4 +23,4 @@ This widget is a life saver, and is packed with following Feautures:
 * reset the fields
 
 
-<img src= "tested.png" height = "75%", width = "75%">
+
