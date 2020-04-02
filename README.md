@@ -18,5 +18,5 @@ This widget is a life saver, and is packed with following Feautures:
 # RESET
 * reset the fields
 
-<img src= "completed.png">
-<img src= "tested.png">
+<img src= "completed.png" height = "75%" width = "75%">
+<img src= "tested.png" height = "75%", width = "75%">
