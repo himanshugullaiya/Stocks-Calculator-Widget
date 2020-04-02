@@ -6,6 +6,8 @@ This widget is a life saver, and is packed with following Feautures:
 * Margin Provided by the Broker
 * Cash Required to buy equity stock
 
+<img src= "completed.png" height = "75%" width = "75%">
+
 ## PROFIT VARIABLE CALC.
 * Enter the Amount you want to earn and choose the following:
 * Either Quantity or Ticks
@@ -18,5 +20,5 @@ This widget is a life saver, and is packed with following Feautures:
 # RESET
 * reset the fields
 
-<img src= "completed.png" height = "75%" width = "75%">
+
 <img src= "tested.png" height = "75%", width = "75%">
