@@ -5,6 +5,7 @@ This widget is a life saver, and is packed with following Feautures:
 * Breakeven Charge
 * Margin Provided by the Broker
 * Cash Required to buy equity stock
+* <b> auto Last Trade Price </b>is filled
 
 <img src= "completed.png" height = "75%" width = "75%">
 <img src= "tested.png" height = "75%", width = "75%">
